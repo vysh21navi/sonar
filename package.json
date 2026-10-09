@@ -1,3 +1,12 @@
-git add sonar-project.properties
-git commit -m "Add sonar properties"
-git push
+{
+  "name": "far",
+  "version": "1.0.0",
+  "description": "Sample JS project for SonarQube analysis",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
