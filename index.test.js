@@ -10,6 +10,6 @@ test("isEven detects even numbers", () => {
 });
 
 test("greet works with and without a name", () => {
-  expect(greet("Sam")).toBe("Hello, Sam!");
+  expect(greet("vysh")).toBe("Hello, vyshnavi!");
   expect(greet()).toBe("Hello, stranger!");
 });
