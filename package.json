@@ -1,5 +1,5 @@
 {
-  "name": "far",
+  "name": "project-2",
   "version": "1.0.0",
   "description": "Sample JS project for SonarQube analysis",
   "main": "src/index.js",
